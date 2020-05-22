@@ -21,4 +21,4 @@ jobs:
       with:
         java-version: 1.8
     - name: Build with Ant
-      run: ant -buildfile Test/build.xml
+      run: ant -buildfile Tutorial/Test/build.xml
